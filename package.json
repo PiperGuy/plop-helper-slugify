@@ -1,0 +1,40 @@
+{
+    "name": "@piperguy/plop-helper-slugify",
+    "version": "1.1.0",
+    "description": "💧 plop helper slugify",
+    "keywords": [
+        "plop",
+        "plop-pack",
+        "plop-helper",
+        "helper",
+        "slugify",
+        "slug"
+    ],
+    "homepage": "https://npmjs.com/package/@piperguy/plop-helper-slugify",
+    "bugs": {
+        "url": "https://github.com/piperguy/plop-helper-slugify/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Naveen Pandurangi",
+        "email": "naveenppandurangi@gmail.com",
+        "url": "https://piperguy.github.io"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/piperguy/plop-helper-slugify"
+    },
+    "scripts": {},
+    "dependencies": {
+        "slugify": "^1.4.5"
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.7.0",
+        "eslint-plugin-jsx-a11y": "^6.3.1",
+        "eslint-plugin-react": "^7.20.6",
+        "eslint-plugin-react-hooks": "^4.1.0"
+    },
+    "peerDependencies": {}
+}
